@@ -1,4 +1,5 @@
 # cindymall
+<<<<<<< HEAD
 
 ## Project setup
 ```
